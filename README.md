@@ -25,3 +25,7 @@ Estrutura do TDD → Testes → Implantação → Refatoração
 ## Quando Usar o TDD?
 
 Quando você for aplicar um código complexo, com regras especificas como por exemplo validações e processos complexos e interligados, vale a pena utilizar o TDD para ajudar na realização dessa tarefa.
+
+## Devemos testar todas as classes/métodos?
+
+Não devemos testar todas as classes e métodos. O foco dos teste devem estar voltados para locais que contenham regras de negócios e que tem altas chances de alterações, pois assim é valido os testes, para uma maior segurança de validação referente as possíveis mudanças realizadas.
