@@ -15,7 +15,7 @@
 
 Estrutura do TDD → Testes → Implantação → Refatoração
 
-## Vantagens do TDD:
+## Vantagens do TDD
 
 **1.** O código já sai testado antes mesmo de você realizar a implementação.
 **2.** Além disso como começamos com o testes já evitamos “testes viciados”, ou seja, criar um testes especifico para uma implementação em especifico e não para o comportamento esperado. Assim evitamos esses “Testes Viciados” pois começamos por eles e não temos nenhuma base da implementação para nos influenciar.
